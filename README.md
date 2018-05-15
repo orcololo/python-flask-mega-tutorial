@@ -1,1 +1,1 @@
-## Just a simples repository from my learnings
+## Just a simple repository from my learnings.
